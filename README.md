@@ -6,3 +6,5 @@ as a result of my work with the Neufeldt Lab at Montana State University.
 
 Filter Bypass Manifold and Filter Bypass Manifold Explanation cover the redesigned manifold I created at the Christopher
 Lab to account for a reaction that was occurring between H2 and D2 within the molecular sieve.
+
+The poster was created to show lab results of myself and my mentor, Dr. Silvia Marino.
