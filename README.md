@@ -1,4 +1,4 @@
-Arli_DRIFTS_Analysis was created for work with the Christopher Lab to help quantify nanoparticle restructuring.
+Arli DRIFTS Analysis was created for work with the Christopher Lab to help quantify nanoparticle restructuring.
 Specifically searched for differences in amount of well-coordinated, under-coordinated, and highly under-coordinated sites.
 
 C2-Selective Palladium-Catalyzed C−S Cross-Coupling of 2,4-Dihalopyrimidines is the paper published under my legal name
